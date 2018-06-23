@@ -1,8 +1,8 @@
-#Basic REACT FLEXBOX LAYOUT
+# Basic REACT FLEXBOX LAYOUT
 
 This is a cool project using class components.
 
-###Technologies used:
+### Technologies used:
 - React.js
 -CSS
 -Flexbox
