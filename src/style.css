@@ -1,0 +1,40 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+.title{
+  border:5px solid white;
+  background-color: aquamarine;
+  padding: 25px;
+
+}
+
+
+.content{
+  background-color: aquamarine;
+  border: 5px solid white;
+  display: flex;
+}
+
+
+.bottom{
+  background-color: aquamarine;
+  border: 5px solid white;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.left{
+  width: 20vw;
+  background-color: blue;
+}
+.right{
+  width: 80vw;
+  background-color: lightblue;
+}
+
+.c1{
+  border: 1px solid red;
+  height: 60vh;
+}
